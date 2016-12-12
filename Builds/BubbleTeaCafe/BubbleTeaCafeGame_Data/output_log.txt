@@ -17,19 +17,19 @@ Platform assembly: E:\Program Files (x86)\Unity\Projects\ldjam37\Builds\BubbleTe
 Loading E:\Program Files (x86)\Unity\Projects\ldjam37\Builds\BubbleTeaCafe\BubbleTeaCafeGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: E:\Program Files (x86)\Unity\Projects\ldjam37\Builds\BubbleTeaCafe\BubbleTeaCafeGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading E:\Program Files (x86)\Unity\Projects\ldjam37\Builds\BubbleTeaCafe\BubbleTeaCafeGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.028 seconds
+- Completed reload, in  0.036 seconds
 Platform assembly: E:\Program Files (x86)\Unity\Projects\ldjam37\Builds\BubbleTeaCafe\BubbleTeaCafeGame_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: E:\Program Files (x86)\Unity\Projects\ldjam37\Builds\BubbleTeaCafe\BubbleTeaCafeGame_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.046140 ms
+UnloadTime: 0.977145 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 2598 -> priority: 1 
+  Thread -> id: 331c -> priority: 1 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.400413 ms
+UnloadTime: 4.708234 ms
 
 Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1895.
-Total: 0.371122 ms (FindLiveObjects: 0.063612 ms CreateObjectMapping: 0.034753 ms MarkObjects: 0.244208 ms  DeleteObjects: 0.028237 ms)
+Total: 0.443733 ms (FindLiveObjects: 0.086884 ms CreateObjectMapping: 0.034753 ms MarkObjects: 0.287961 ms  DeleteObjects: 0.033512 ms)
 
